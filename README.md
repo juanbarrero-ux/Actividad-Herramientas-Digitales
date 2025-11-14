@@ -109,8 +109,6 @@ Esta experiencia me permitió transformar tareas sueltas en evidencia ordenada: 
 
 ---
 
-## 📬 Contacto
-
-Si necesitas que convierta este README en `README.md` dentro de un repositorio de ejemplo o quieres que genere la `LECCIONES_APRENDIDAS.md` y la plantilla `README_Entrega.md`, dime y lo agrego.
+.
 
 — Juan Pablo Barrero Contreras
